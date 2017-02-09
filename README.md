@@ -19,11 +19,11 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > 10. Postal-code
 
 > ##### This platform should give the user the ability to: #####
-> _ PHP Parser _
+> _PHP Parser_
 > > -Create a script to parse the XML
 > > -Create a table to add parsed members in the database
 
-> _ User Interface _
+> _User Interface_
 > > -Add new members
 > > -Edit members
 > > -Delete members
@@ -33,7 +33,7 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > > -Sort members by provinces
 > > -Display the last 100 members of each province based on their ID
 
-> _ Concept _
+> _Concept_
 > -Object Oriented
 > -Bootstrap based
 

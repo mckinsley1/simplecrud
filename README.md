@@ -21,7 +21,7 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > ##### This platform should give the user the ability to: #####
 > _PHP Parser_
 > > - Create a script to parse the XML
-> > - Create a table to add parsed members in the database
+> > - Create a table to add parsed members in a database table
 
 > _User Interface_
 > > - Add new members
@@ -34,8 +34,8 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > > - Display the last 100 members of each province based on their ID
 
 > _Concept_
-> - Object Oriented
-> - Bootstrap based
+> > - Object Oriented
+> > - Bootstrap based
 
 ### Delivery ###
 

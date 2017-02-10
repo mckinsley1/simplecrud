@@ -33,7 +33,7 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > > - Sort members by provinces
 > > - Display the last 100 members of each province based on their ID
 
-> _Concept_
+> _Concepts_
 > > - Object Oriented
 > > - Bootstrap based
 

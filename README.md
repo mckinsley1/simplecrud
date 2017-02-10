@@ -50,6 +50,9 @@ This is an entrance project to provides to the team the most accurate and rigoro
 * Comments
 * Usability
 * Logic
+* Client Validation
+* Server Validation
+* SQL Validation
 
 ### Do you have any question?, Contact Us ###
 

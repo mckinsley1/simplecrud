@@ -36,6 +36,7 @@ This is an entrance project to provides to the team the most accurate and rigoro
 > _Concepts_
 > > - Object Oriented
 > > - Bootstrap based
+> > - No Frameworks (from scratch)
 
 ### Delivery ###
 

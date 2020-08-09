@@ -57,5 +57,4 @@ This is an entrance project to provides to the team the most accurate and rigoro
 
 ### Do you have any question?, Contact Us ###
 
-* aaron@monifymedia.com
-* george@monifymedia.com
+* george@marketingwebsites.ca
